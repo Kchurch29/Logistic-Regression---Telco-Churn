@@ -6,7 +6,7 @@
   
 # <B>Table of Contents<B>
   
- 1. [Introduction](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn#introduction)
+ 1. [Introduction](https://github.com/Kchurch29/Logistic-Regression---Telecommunications-Churn#introduction)
  3. [Data](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn#data)
  2. [Data Preparation](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn#data-preparation)
  3. [Visualizations](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn#visualization)
