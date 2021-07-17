@@ -125,7 +125,11 @@ A new VIF graphic shows there is no mulitcollinearity present.
   
 ![](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn/blob/main/images/SecondVIFScores.png)
   
-&ensp; 
+&ensp;The Boruta Package in R picks the variables based on importance. It is an improvement of random forest, a very popular method for variable selection (Rasool, 2019). Using Boruta takes more time to run in R but will help modeling and computer resource usage in the long term. After the algorithm is run, the results are plotted as seen below:
+  
+![](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn/blob/main/images/borutathisplot.png)
+  
+The green variables in the plot clearly show what variables are the most important, and will be used in model creation.
 ---
   
 # <B>Model Creation<B>
