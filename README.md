@@ -90,6 +90,9 @@
 ---
   
 # <B>Visualization<B>
+  
+&ensp; The following graphs show the univariate statistics of the variables:
+  
 ![](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn/blob/main/images/univariate/1.%20pop_area_child_age.png)
 ![](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn/blob/main/images/univariate/2.%20income_marital_gender_outage.png)
 ![](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn/blob/main/images/univariate/3.%20email_contact_yearlyfail_techie.png)
@@ -98,6 +101,17 @@
 ![](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn/blob/main/images/univariate/6.%20deviceprotection_techsupport_streamingtvs_streamingmovies.png)
 ![](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn/blob/main/images/univariate/7.%20paperlessbilling_paymentmethod_monthlycharges_bandgbyear.png)
 ![](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn/blob/main/images/univariate/8.%20churn.png)
+  
+&ensp; The following graphs show the bivariate statistics of the variables with the response variable Churn:
+  
+![](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn/blob/main/images/bivariate/1.%20pop_area_children_age.png)
+![](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn/blob/main/images/bivariate/2.%20income_marital_gender_outage.png)
+![](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn/blob/main/images/bivariate/3.%20email_contacts_yearlyfailure_techie.png)
+![](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn/blob/main/images/bivariate/4.%20contract_portmodem_tablet_internetservice.png)
+![](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn/blob/main/images/bivariate/5.%20phone_multiple_onlinesecurity_onlinebackup.png)
+![](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn/blob/main/images/bivariate/6.%20deviceprotection_techsupport_streamingtv_streamingmovies.png)
+![](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn/blob/main/images/bivariate/7.%20paperlessbilling_paymentmethod_monthlycharge_bandwidth.png)
+  
 ---
   
 # <B>Feature Selection<B>
