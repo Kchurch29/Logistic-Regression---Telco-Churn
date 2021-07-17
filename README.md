@@ -84,6 +84,8 @@
   
 ![Correlation Plot](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn/blob/main/images/corrplot.png)
   
+&ensp; The variables "Bandwidth_GB_Year" and "Tenure" have a very high correlation. For this study, the variable "Bandwidth_GB_Year" will be dropped before further analysis.
+  
   
 ---
   
