@@ -23,10 +23,58 @@
 ---
   
 # <B>Data<B>
-  
 ---
   
-&ensp; The data set used in this project does not have any missing or invalid values
+* CaseOrder - Integer 
+* Customer_id - Character
+* Interaction - Character
+* UID - Character
+* City - Character
+* State - Character
+* County - Character
+* Zip - Integer
+* Lat - Numeric
+* Lng - Numeric
+* Population - Integer
+* Area - Character
+* TimeZone - Character
+* Job - Character
+* Children - Integer
+* Age - Integer
+* Income - Number
+* Marital - Character
+* Gender - Character
+* Churn - Character
+* Outage_sec_perweek - Numeric
+* Email - Integer
+* Contacts - Integer
+* Yearly_equip_failure - Integer
+* Techie - Character
+* Contract - Character
+* Port_modem - Character
+* Tablet - Character
+* InternetService - Character
+* Phone - Character
+* Multiple - Character
+* OnlineSecurity - Character
+* OnlineBackup - Character
+* DeviceProtection - Character
+* TechSupport - Character
+* StreamingTV - Character
+* StreamingMovies - Character
+* PaperlessBilling - Character
+* PaymentMethod - Character
+* Tenure - Numeric
+* MonthlyCharge - Numeric
+* Bandwidth_GB_Year - Numeric
+* Item1 - Integer
+* Item2 - Integer
+* Item3 - Integer
+* Item4 - Integer
+* Item5 - Integer
+* Item6 - Integer
+* Item7 - Integer
+* Item8 - Integer
   
 # <B>Data Preparation<B>
   
