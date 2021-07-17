@@ -130,6 +130,11 @@ A new VIF graphic shows there is no mulitcollinearity present.
 ![](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn/blob/main/images/borutathisplot.png)
   
 The green variables in the plot clearly show what variables are the most important, and will be used in model creation.
+  
+Using the attStats command, a list of variables and scores can be produced, with a decision on whether or not the variable should be included for further analysis.
+  
+![](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn/blob/main/images/attStats.png)
+  
 ---
   
 # <B>Model Creation<B>
