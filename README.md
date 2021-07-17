@@ -78,7 +78,8 @@
   
 # <B>Data Preparation<B>
   
-&ensp; 
+&ensp; After the dataset is imported into R, the summary stats show there are no missing or invalid values. A new dataset is created with the variables to be used for analysis. The features in the new dataset that are in character format are changed to factors for analysis. 
+&ensp; A correlation plot is created with the numeric variables to check for high correlations.
   
 ---
   
