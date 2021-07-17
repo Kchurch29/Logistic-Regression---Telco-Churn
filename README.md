@@ -118,7 +118,12 @@
 
 &ensp; A table with the Variance Inflation Factor scores shows high collinearity between the two variables "StreamingMovies" and "MonthlyCharge". 
   
-
+![](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn/blob/main/images/FirstVIFScores.png)
+  
+For the purposes of this study, the variable "MonthlyCharge" will be dropped.
+A new VIF graphic shows there is no mulitcollinearity present.
+  
+![]
 ---
   
 # <B>Model Creation<B>
