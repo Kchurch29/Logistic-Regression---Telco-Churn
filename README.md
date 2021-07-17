@@ -123,7 +123,9 @@
 For the purposes of this study, the variable "MonthlyCharge" will be dropped.
 A new VIF graphic shows there is no mulitcollinearity present.
   
-![]
+![](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn/blob/main/images/SecondVIFScores.png)
+  
+&ensp; 
 ---
   
 # <B>Model Creation<B>
