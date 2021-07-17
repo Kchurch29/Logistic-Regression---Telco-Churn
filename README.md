@@ -90,7 +90,14 @@
 ---
   
 # <B>Visualization<B>
-  
+![](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn/blob/main/images/univariate/1.%20pop_area_child_age.png)
+![](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn/blob/main/images/univariate/2.%20income_marital_gender_outage.png)
+![](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn/blob/main/images/univariate/3.%20email_contact_yearlyfail_techie.png)
+![](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn/blob/main/images/univariate/4.%20contract_portmodems_tablet_internetservice.png)
+![](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn/blob/main/images/univariate/5.%20phone_multiple_onlinesec_onlineback.png)
+![](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn/blob/main/images/univariate/6.%20deviceprotection_techsupport_streamingtvs_streamingmovies.png)
+![](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn/blob/main/images/univariate/7.%20paperlessbilling_paymentmethod_monthlycharges_bandgbyear.png)
+![](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn/blob/main/images/univariate/8.%20churn.png)
 ---
   
 # <B>Feature Selection<B>
