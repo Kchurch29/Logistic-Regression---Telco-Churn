@@ -115,7 +115,10 @@
 ---
   
 # <B>Feature Selection<B>
+
+&ensp; A table with the Variance Inflation Factor scores shows high collinearity between the two variables "StreamingMovies" and "MonthlyCharge". 
   
+
 ---
   
 # <B>Model Creation<B>
