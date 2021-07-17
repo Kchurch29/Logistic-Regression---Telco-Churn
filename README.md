@@ -141,7 +141,7 @@ Using the attStats command, a list of variables and scores can be produced, with
  
 &ensp; Using the results of the Boruta algorithm, a model is created and the results are shown below:
   
-![](
+![](https://github.com/Kchurch29/Logistic-Regression---Telecommunications-Churn/blob/main/images/model1.png)
   
 ---
   
