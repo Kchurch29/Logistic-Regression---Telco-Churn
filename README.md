@@ -26,6 +26,8 @@
   
 ---
   
+&ensp; The data set used in this project does not have any missing or invalid values
+  
 # <B>Data Preparation<B>
   
 &ensp; 
