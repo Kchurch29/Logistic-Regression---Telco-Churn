@@ -9,7 +9,7 @@
  1. [Introduction](https://github.com/Kchurch29/Logistic-Regression---Telecommunications-Churn#introduction)
  3. [Data](https://github.com/Kchurch29/Logistic-Regression---Telecommunications-Churn/blob/main/README.md#data)
  2. [Data Preparation](https://github.com/Kchurch29/Logistic-Regression---Telecommunications-Churn/blob/main/README.md#data-preparation)
- 3. [Visualizations](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn#visualization)
+ 3. [Visualizations](https://github.com/Kchurch29/Logistic-Regression---Telecommunications-Churn#visualization)
  4. [Feature Selection](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn#feature-selection)
  5. [Model Creation](https://github.com/Kchurch29/Logistic-Regression---Telecommunications-Churn#model-creation)
  6. [Summary and Results](https://github.com/Kchurch29/Logistic-Regression---Telecommunications-Churn#summary-and-results)
