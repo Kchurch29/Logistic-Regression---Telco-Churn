@@ -18,7 +18,7 @@
   
 # <B>Introduction<B>
   
-&ensp; Companies who lose customers obviously lose the money that comes with the customers. When a customer leaves a company, it is called churning. By doing a churn analysis the company can predict what factors are involved and use them to reduce churn (Martin, 2020).  The goal of this project is to use the telecommunication data and logistic regression to show the most valuable variables and predict whether a customer will churn or not. 
+&ensp; Companies who lose customers obviously lose the money that comes with the customers. When a customer leaves a company, it is called churning. By doing a churn analysis the company can predict what factors are involved and use them to reduce churn.  The goal of this project is to use the telecommunication data and logistic regression to show the most valuable variables and predict whether a customer will churn or not. 
  
   
 ---
