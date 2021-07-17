@@ -12,7 +12,7 @@
  3. [Visualizations](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn#visualization)
  4. [Feature Selection](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn#feature-selection)
  5. [Model Creation](https://github.com/Kchurch29/Logistic-Regression---Telecommunications-Churn#model-creation)
- 6. [Summary and Results](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn#summary-and-results)
+ 6. [Summary and Results](https://github.com/Kchurch29/Logistic-Regression---Telecommunications-Churn#summary-and-results)
   
 ---
   
