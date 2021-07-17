@@ -138,6 +138,10 @@ Using the attStats command, a list of variables and scores can be produced, with
 ---
   
 # <B>Model Creation<B>
+ 
+&ensp; Using the results of the Boruta algorithm, a model is created and the results are shown below:
+  
+![](
   
 ---
   
