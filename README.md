@@ -6,13 +6,13 @@
   
 # <B>Table of Contents<B>
   
- 1. [Introduction]
- 3. [Data]
- 2. [Data Preparation]
- 3. [Visualations]
- 4. [Feature Selection]
- 5. [Model Creation]
- 6. [Summary and Results]
+ 1. [Introduction](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn#introduction)
+ 3. [Data](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn#data)
+ 2. [Data Preparation](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn#data-preparation)
+ 3. [Visualations](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn#visualization)
+ 4. [Feature Selection](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn#feature-selection)
+ 5. [Model Creation](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn#model-creation)
+ 6. [Summary and Results](https://github.com/Kchurch29/Logistic-Regression---Telco-Churn#summary-and-results)
   
 ---
   
