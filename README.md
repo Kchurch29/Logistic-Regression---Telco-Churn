@@ -1,4 +1,4 @@
-# Logistic-Regression---Telco-Churn
+# Logistic Regression
 
 <B>Logistic Regression with Telecommunications Data<B>
 
