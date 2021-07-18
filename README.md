@@ -13,7 +13,7 @@
  4. [Feature Selection](https://github.com/Kchurch29/Logistic-Regression---Telecommunications-Churn/blob/main/README.md#feature-selection)
  5. [Model Creation](https://github.com/Kchurch29/Logistic-Regression---Telecommunications-Churn#model-creation)
  6. [Summary and Results](https://github.com/Kchurch29/Logistic-Regression---Telecommunications-Churn#summary-and-results)
- 7. [Conclusion](
+ 7. [Conclusion](https://github.com/Kchurch29/Logistic-Regression---Telecommunications-Churn/blob/main/README.md#conclusion)
   
 ---
   
