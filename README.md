@@ -146,7 +146,11 @@ Using the attStats command, a list of variables and scores can be produced, with
 ---
   
 # <B>Summary and Results<B>
-  
+
+A model created with features before using Boruta is created to compare with a model created using the most important features determined by the Boruta algorithm. A confusion matrix shows the results:
+	
+![](https://github.com/Kchurch29/Logistic-Regression---Telecommunications-Churn/blob/main/images/Conf_Matrix_All.png)
+	
 &ensp; The Techie coefficient tells us that if the customer is a Techie, they are more likely to churn. Customers with a one- or two-year contract are less likely to churn than customers with a month-to-month contract as shown with a negative coefficient.  Customers with Fiber Optic or No Internet Service are less likely to churn than customers with DSL. If have customer has Multiple services, Online Backup or Device Protection, they are more likely to churn given their coefficient is positive. Customer who streams TV and Movies have a high positive coefficient, showing they are more likely to churn than customers who do not have those options. For Tenure, the longer the customer is with the company, the less likely they are to leave since the coefficient is negative. Telecommunications customers have many options in the present time, the quality of service and content available could be a key factor in keeping or losing customers.
 	The practical significance of the model is to determine what customers would churn given the options they subscribe too. Being able to predict the factors that cause a customer to churn, a company could put time and resources into meeting the needs most used by customers to reduce churn. 
 	From the data collected and model created customers who have a longer Tenure are more likely to stay. To increase tenure, customers with short term month-to-month contracts should be focused on to get them on longer term contracts. Customers with DSL are more likely to churn as well. The quality of DSL service should be investigated further to see if changes in quality can be made. Customers who have streaming services are more likely to churn, and since many options are available to customers, this should be an area of focus.
