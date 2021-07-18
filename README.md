@@ -149,7 +149,7 @@ Using the attStats command, a list of variables and scores can be produced, with
 
 A model created with features before using Boruta is created to compare with a model created using the most important features determined by the Boruta algorithm. A confusion matrix shows the results:
 	
-	![](https://github.com/Kchurch29/Logistic-Regression---Telecommunications-Churn/blob/main/images/Conf_Matrix_All.png)
+![](https://github.com/Kchurch29/Logistic-Regression---Telecommunications-Churn/blob/main/images/Conf_Matrix_All.png)
 	
 &ensp; The accuracy of the model is calculated with the following formula: (True Positives + True Negatives) / (True Positives + True Negatives + False Positives + False Negatives). Filling the information, the output is a rate of 0.9027.  The sensitivity is the proportion of actual positives which are correctly identified. The sensitivity for this model is 0.842.  The specificity is the proportion of negatives that are correctly predicted.  The specificity of the initial model is 0.922. 
 	
@@ -157,8 +157,12 @@ A model created with features before using Boruta is created to compare with a m
 
 ![](https://github.com/Kchurch29/Logistic-Regression---Telecommunications-Churn/blob/main/images/Conf_Matrix_Reduced.png)
 	
-
-
+This confusion matrix shows almost the same results with far fewer features.
+	
+---
+	
+# <B>Conclusion<B>
+	
 	
 &ensp; The Techie coefficient tells us that if the customer is a Techie, they are more likely to churn. Customers with a one- or two-year contract are less likely to churn than customers with a month-to-month contract as shown with a negative coefficient.  Customers with Fiber Optic or No Internet Service are less likely to churn than customers with DSL. If have customer has Multiple services, Online Backup or Device Protection, they are more likely to churn given their coefficient is positive. Customer who streams TV and Movies have a high positive coefficient, showing they are more likely to churn than customers who do not have those options. For Tenure, the longer the customer is with the company, the less likely they are to leave since the coefficient is negative. Telecommunications customers have many options in the present time, the quality of service and content available could be a key factor in keeping or losing customers.
 	The practical significance of the model is to determine what customers would churn given the options they subscribe too. Being able to predict the factors that cause a customer to churn, a company could put time and resources into meeting the needs most used by customers to reduce churn. 
