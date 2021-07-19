@@ -14,7 +14,7 @@
  5. [Model Creation](https://github.com/Kchurch29/Logistic-Regression---Telecommunications-Churn#model-creation)
  6. [Summary and Results](https://github.com/Kchurch29/Logistic-Regression---Telecommunications-Churn#summary-and-results)
  7. [Conclusion](https://github.com/Kchurch29/Logistic-Regression---Telecommunications-Churn/blob/main/README.md#conclusion)
- 8. [R Code used for project](https://github.com/Kchurch29/Logistic-Regression---Telecommunications-Churn/blob/main/TelcoChurnR.R)
+ 8. [R Code](https://github.com/Kchurch29/Logistic-Regression---Telecommunications-Churn/blob/main/TelcoChurnR.R)
   
 ---
   
